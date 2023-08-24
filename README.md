@@ -23,5 +23,7 @@ Use
 7. Exit.  
   
 Either the save location must be .\Star Valor\Star Valor_Data\ or you must place the saved file there after creating it.  
-  
-![image](https://github.com/MPC88/MC_SVGeneralDatCleaner/assets/36488378/9be77b3f-60a5-4b18-b7e5-febef6c3f637)
+
+<img src="https://github.com/MPC88/MC_SVGeneralDatCleaner/assets/36488378/9be77b3f-60a5-4b18-b7e5-febef6c3f637" width=50% height=50%>
+
+
