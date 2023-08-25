@@ -14,16 +14,15 @@ Download MC_SVGeneralDatCleaner.zip and extract the contents to any directory.
   
 Use  
 ===  
-1. Make a backup of your general.dat file (found at .\Star Valor\Star Valor_Data\general.dat).
-2. Run MC_SVGeneralDatCleaner.exe.  
-3. Point the application to the folder containing Star Valor.exe.  
-4. Click "Load general.dat".
-5. Select an ID from the list, click the red cross or press the delete key.
-6. Click "Save general.dat".
+1. Make a backup of your general.dat file (found at .\Star Valor\Star Valor_Data\general.dat).  
+2. Run MC_SVGeneralDatCleaner.exe.   
+3. Point the application to the folder containing Star Valor.exe.    
+4. Click "Load general.dat".  
+5. Select an ID from the list, click the red cross or press the delete key.  
+6. Click "Save general.dat".  
+   a. Save location must be .\Star Valor\Star Valor_Data\.  Click "Yes" if asked if you want to overwrite an existing file.  
 7. Exit.  
   
-Either the save location must be .\Star Valor\Star Valor_Data\ or you must place the saved file there after creating it.  
-
 <img src="https://github.com/MPC88/MC_SVGeneralDatCleaner/assets/36488378/3df7f938-8ea1-4d85-913a-fb94e5943b1c" width=50% height=50%>
 
 
